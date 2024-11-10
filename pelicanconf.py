@@ -1,6 +1,7 @@
 AUTHOR = 'Nikita Popov'
 SITENAME = 'ovoc_cv_pelican'
-SITEURL = ""
+SITEURL = 'https://supperik.github.io/ovoc_cv/'
+RELATIVE_URLS = False
 
 PATH = "content"
 
